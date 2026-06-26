@@ -2,15 +2,11 @@
   <img src="banner.png" alt="Purushottam Apte Banner" width="100%" />
 </p>
 
-# Hi, I'm Purushottam Apte 👋
+## 👋 Welcome!
 
-### Electronics & Telecommunication Engineering Student | Embedded Systems | IoT | Firmware Development
+Electronics & Telecommunication Engineering student with a strong interest in **Embedded Systems, IoT, and Firmware Development**.
 
-Final Year B.E. Electronics & Telecommunication Engineering student from Pune, India.
-
-I'm passionate about designing embedded systems that combine **microcontrollers, sensors, communication protocols, and cloud connectivity** to solve real-world engineering problems.
-
----
+I enjoy designing embedded solutions using microcontrollers, sensors, communication protocols, and cloud-connected devices while continuously expanding my knowledge of modern embedded technologies.
 
 ## 🛠 Tech Stack
 
