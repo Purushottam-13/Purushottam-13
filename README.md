@@ -40,35 +40,45 @@ I enjoy designing embedded solutions using microcontrollers, sensors, communicat
 
 ## 🚀 Featured Projects
 
-### 🔹 Attendify 
+### 📌 Attendify 
 
-IoT Biometric Attendance System using **ESP32, R307 Fingerprint Sensor, Firebase, OLED Display, and React Dashboard**.
-
-### 🔹 Underground Cable Fault Detection System
-
-IoT-enabled underground cable fault detection using **Arduino UNO, ESP8266, MQTT, and Adafruit IO**.
-
-### 🔹 Portfolio Website
-
-A responsive portfolio showcasing my projects, skills, and engineering work.
+IoT-based biometric attendance system using ESP32, fingerprint authentication, Firebase, OLED display, and a web dashboard.
 
 ---
+
+### 📌 Underground Cable Fault Detection System
+
+IoT-enabled underground cable fault detection using Arduino UNO, ESP8266, MQTT, and Adafruit IO for real-time monitoring.
+
+🔗 Repository:
+https://github.com/Purushottam-13/Underground-cable-fault-detection-system
+
+---
+
+### 📌 Portfolio Website
+
+Personal portfolio showcasing my projects, skills, and engineering journey.
+
+🔗 Live:
+https://portfolio-zeta-murex-cawoef54bd.vercel.app/
 
 ## 🌱 Currently Learning
 
-* Linux
-* Python
-* SQL
-* Git & GitHub
-
----
+- Linux
+- Git & GitHub
+- Python
+- SQL
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:** https://portfolio-zeta-murex-cawoef54bd.vercel.app/
+🌐 **Portfolio**  
+https://portfolio-zeta-murex-cawoef54bd.vercel.app/
 
-💼 **LinkedIn:** https://www.linkedin.com/in/purushottam-apte/
+💻 **GitHub**  
+https://github.com/Purushottam-13
 
-📧 **Email:** [aptepuru19@gmail.com](mailto:aptepuru19@gmail.com)
+💼 **LinkedIn**  
+https://www.linkedin.com/in/purushottam-apte/
 
----
+📧 **Email**  
+aptepuru19@gmail.com
