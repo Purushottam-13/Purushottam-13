@@ -11,43 +11,32 @@ I enjoy designing embedded solutions using microcontrollers, sensors, communicat
 ## 🛠 Tech Stack
 
 ### Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ### Embedded Platforms
-
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
-### Communication Protocols
-
+### Development Tools
 <p>
-  <img src="https://img.shields.io/badge/UART-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SPI-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/I²C-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wi--Fi-4285F4?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Hardware & Development Tools
+### Hardware & Protocols
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-* KiCad
-* PlatformIO
-* Arduino IDE
-* Keil MDK
-* Oscilloscope
-* Multimeter
-
----
+- UART
+- SPI
+- I²C
+- MQTT
+- Wi-Fi
+- KiCad
+- Arduino IDE
+- PlatformIO
 
 ## 🚀 Featured Projects
 
