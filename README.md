@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Purushottam Apte Banner" width="100%" />
+</p>
+
 # Hi, I'm Purushottam Apte 👋
 
 ### Electronics & Telecommunication Engineering Student | Embedded Systems | IoT | Firmware Development
